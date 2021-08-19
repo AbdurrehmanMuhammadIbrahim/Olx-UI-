@@ -1,0 +1,41 @@
+*body{
+    margin: 0%;
+    padding: 0%;
+}
+#navbar{
+    width: 100%;
+} 
+#sea{
+    width: 450px;
+}
+#aa{
+    width: 650px;
+}
+.btn{
+    border: solid 3px;
+    margin-left: 5px;
+    
+    border-radius: 30px;
+}
+.card-group{
+    margin: 50px;
+    width: 90%;
+ 
+}
+#load{
+    margin-top: -40px;
+}
+#list{
+
+    display: inline-flex;
+
+}
+#last{
+    width: 100%;
+}
+.ul{
+    margin: 50px;
+}
+#load{
+    background-color: blue;
+}
